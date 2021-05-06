@@ -1,6 +1,6 @@
 {
-  "name": "gatsby-theme-firebase",
-  "version": "1.0.10",
+  "name": "@dhillon/gatsby-theme-firebase",
+  "version": "1.0.11",
   "description": "A Gatsby Theme for adding firebase to your application.",
   "main": "index.js",
   "types": "index.d.ts",
@@ -29,11 +29,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/epilande/gatsby-theme-firebase.git",
-    "directory": "gatsby-theme-firebase"
+    "url": "https://github.com/dhillonN/gatsby-theme-firebase.git",
+    "directory": "@dhillonN/gatsby-theme-firebase"
   },
   "bugs": {
-    "url": "https://github.com/epilande/gatsby-theme-firebase/issues"
+    "url": "https://github.com/dhillonN/gatsby-theme-firebase/issues"
   },
   "keywords": [
     "gatsby",
